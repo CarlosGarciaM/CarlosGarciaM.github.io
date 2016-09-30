@@ -10,4 +10,4 @@ Usa Jekyll pasa transformar una platilla html a Markdown.
 
 Pongo aqui un enlace a la pagina sobre mi.
 
-[link](about.md)
+[link](about)
