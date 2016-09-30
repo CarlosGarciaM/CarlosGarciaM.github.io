@@ -35,6 +35,9 @@ Ingles: Nivel de lectura y escritura alto.
 ###Información adicional:
 
 -Me interesa mucho la gestión de las bases de datos.
+
 -Me gustaria trabajar administrando una base de datos.
+
 -Tengo carnet de conducir
+
 -La disponibilidad para trabajar fuera depende del coste economico del traslado.
