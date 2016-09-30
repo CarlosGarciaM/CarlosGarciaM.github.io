@@ -12,4 +12,4 @@ Pongo aqui un enlace a la pagina sobre mi.
 
 [link](about)
 
-![](penguin)
+![](penguin.jpg)
