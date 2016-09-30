@@ -8,6 +8,4 @@ por github.
 
 Usa Jekyll pasa transformar una platilla html a Markdown.
 
-Pongo aqui un enlace a la pagina about.md
-
-[a relative link](about.md)
+Pongo aqui un enlace a la pagina [sobre mi](about.md)
