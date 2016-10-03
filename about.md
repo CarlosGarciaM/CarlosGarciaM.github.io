@@ -3,12 +3,12 @@ layout: index
 
 title: Pagina sobre mi.
 ---
-#Nombre y Apellidos:
+# Nombre y Apellidos:
 
 Carlos Garcia Muñoz
 Técnico superior de Administración de Sistemas Informaticos en Red.(Fecha fin: Curso 2016-2017)
 
-Formación Técnica:
+# Formación Técnica:
 
 Administración y mantenimiento de servidores y sistemas informaticos - Nivel Avanzado/medio
 
@@ -22,17 +22,17 @@ Gestionar e implantar aplicaciones web - Nivel Medio
 
 Conocimientos de seguridad en sistemas informaticos - Nivel Medio.
 
-Experiencia Laboral:
+# Experiencia Laboral:
 
 Tres meses de practicas en empresa.
 
-Idiomas:
+# Idiomas:
 
 Ingles: Nivel de lectura y escritura alto.
         Nivel hablado medio.
         Nivel de escucha de ingles bajo.
         
-Información adicional:
+# Información adicional:
 
 -Me interesa mucho la gestión de las bases de datos.
 
