@@ -3,6 +3,8 @@ layout: index
 
 title: Implantación de  aplicaciones.
 ---
+# Indice
+
 Pagina principal de github pages generada usando una plantilla proporcionada
 por github.
 
