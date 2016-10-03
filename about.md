@@ -22,17 +22,17 @@ Gestionar e implantar aplicaciones web - Nivel Medio
 
 Conocimientos de seguridad en sistemas informaticos - Nivel Medio.
 
-###Experiencia Laboral:
+Experiencia Laboral:
 
 Tres meses de practicas en empresa.
 
-###Idiomas:
+Idiomas:
 
 Ingles: Nivel de lectura y escritura alto.
         Nivel hablado medio.
         Nivel de escucha de ingles bajo.
         
-###Información adicional:
+Información adicional:
 
 -Me interesa mucho la gestión de las bases de datos.
 
