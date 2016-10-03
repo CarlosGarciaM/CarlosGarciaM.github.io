@@ -3,7 +3,7 @@ layout: index
 
 title: Pagina sobre mi.
 ---
-# Nombre y Apellidos:
+Nombre y Apellidos:
 
 Carlos Garcia Muñoz
 Técnico superior de Administración de Sistemas Informaticos en Red.(Fecha fin: Curso 2016-2017)
